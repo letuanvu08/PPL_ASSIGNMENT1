@@ -1,0 +1,4 @@
+Function: abc
+                Body:
+                    x = foo(1, {1, 2}) [1 + foo(4, 5 * too())] + yoo("abcdef foo()");
+                EndBody.

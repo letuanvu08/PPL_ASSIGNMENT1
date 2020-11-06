@@ -1,0 +1,4 @@
+Function: abc
+                Body:
+                    x = -5 == -(s[4]) + -8;
+                EndBody.

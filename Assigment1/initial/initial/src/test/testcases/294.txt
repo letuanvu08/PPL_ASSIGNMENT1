@@ -1,0 +1,4 @@
+Function: abc
+                Body:
+                5[5[5]] = 4;
+                EndBody.

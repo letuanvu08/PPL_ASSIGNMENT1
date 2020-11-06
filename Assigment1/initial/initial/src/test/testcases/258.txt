@@ -1,0 +1,5 @@
+Function: abc
+                Body:
+                    x = True && !False || !!a && !!!bsdklf;
+                    y = 5.5 -. -.3.3456 -. -.1.2345 +. -.12.e3 +. -.12.;
+                EndBody.

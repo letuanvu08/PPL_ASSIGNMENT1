@@ -1,0 +1,4 @@
+Function: abc
+                Body:
+                    x = hoo(goo[1 + foo()], boo(1 * 4 == hoo({1,2,3}, {1}))) +. 5 -. 1;
+                EndBody.

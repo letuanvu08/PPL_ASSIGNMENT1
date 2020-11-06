@@ -1,0 +1,7 @@
+Function: abc
+                Parameter: x, y, z[4][5]
+                Body:
+                    Do
+                        23 + 24;
+                    While 2000 EndDo.
+                EndBody.

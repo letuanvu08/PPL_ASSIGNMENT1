@@ -1,0 +1,4 @@
+Function: abc
+                Body:
+                    x = 2 + 8 + 4[5][7][9];
+                EndBody.

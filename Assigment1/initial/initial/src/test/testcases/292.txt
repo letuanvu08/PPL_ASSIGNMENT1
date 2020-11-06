@@ -1,0 +1,31 @@
+Function: abc
+                Body:
+                If 4 Then While 4 Do EndWhile.
+                For (q = 1, 2, 3) Do Do While 5 EndDo.
+                EndFor.
+                ElseIf 5 Then 
+                    If 1 Then
+                    ElseIf 2 Then While 1 Do EndWhile.
+                        For (q = 1, 2, 3) Do  Do While 1 Do EndWhile. While 5 EndDo.
+                            EndFor.
+                        If 3 Then
+                        Else
+                            For (q = 1, 2, 3) Do
+                            Do While 5 EndDo.
+                            While 4 Do  Do While 1 Do EndWhile. While 5 EndDo. EndWhile.
+                            EndFor.
+                        EndIf.
+                    ElseIf -4 Then
+                    EndIf.
+                    While 4 Do Do Do While 5 EndDo. EndWhile.
+                ElseIf 6 Then
+                While 4 Do  Do While 5 EndDo. EndWhile.
+                For (q = 1, 2, 3) Do
+                EndFor.
+                ElseIf 7 Then While 1 Do EndWhile.
+                While 4 Do Do While 5 EndDo. EndWhile.
+                For (q = 1, 2, 3) Do
+                EndFor.
+                ElseIf 8 Then While 4 Do While 1 Do EndWhile. Do While 5 EndDo. EndWhile.
+                EndIf.
+                EndBody.

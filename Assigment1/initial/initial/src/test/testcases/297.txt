@@ -1,0 +1,4 @@
+Function:abc
+                Body:
+                DoDoDoDoDoDoDoDoDoDoWhile------------1EndDo.Whilefun(4,5,5,6,{1,2,3,4,6},6)EndDo.While3.4EndDo.While4444EndDo.While"abcdefjlksdj"EndDo.While6EndDo.While7EndDo.While8EndDo.While9EndDo.While000222e-11111EndDo.
+                EndBody.

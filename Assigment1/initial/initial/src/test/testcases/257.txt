@@ -1,0 +1,4 @@
+Function: abc
+                Body:
+                    x = -5 + -7 - -.7 + -.2 **skdljf** + -(-5 + 4) + -4[5] + (-4)[5];
+                EndBody.

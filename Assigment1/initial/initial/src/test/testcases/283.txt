@@ -1,0 +1,40 @@
+Var : x, y, z = 5, t = {1,2,{3,4,5,{1,2,3}}};
+                Var : y = 10., t = 6.e200;
+                Function: abc
+                Parameter: x, y, z[4][5]
+                Body:
+                    Var: x, y;
+                    v = 2 + 3 + 4 \. 5 +. 6.7e-1;
+                    If (x + y + z) Then
+                        Var: a, b, c;
+                        Var: a[4], b[6], r[1];
+                        a = 5.6;
+                        For (e = 1, 4, 6) Do
+                            Var: d, e, f = 6789;
+                            Var: e[4];
+                            printf(i);
+                            While
+                                a + 4
+                            Do
+                                Break;
+                                Var: x = 5, y, qqqq = 6;
+                                Continue;
+                                print(a);
+                                Do
+                                    Var: x, xx, xxx, xxxx;
+                                    Break;
+                                    Continue;
+                                    print(abcdef);
+                                While 2000
+                                EndDo.
+                            EndWhile.
+                        EndFor.
+                        b = 2[2][3];
+                    ElseIf 2 + 3 Then
+                        Var: r, t, r[5];
+                        Var: q1, w2, e1;
+                        q = 5 * 5 + 5;
+                        writeln(fff);
+                    Else a = 3;
+                    EndIf.
+                EndBody.

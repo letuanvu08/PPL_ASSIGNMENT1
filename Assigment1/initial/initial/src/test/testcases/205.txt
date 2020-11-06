@@ -1,0 +1,8 @@
+Var: x,y,z;
+                Function: a1
+                Body:
+                EndBody.
+                Var: m,n,o;
+                Function: a2
+                Body:
+                EndBody.

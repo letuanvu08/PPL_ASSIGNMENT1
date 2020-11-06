@@ -1,0 +1,5 @@
+Function: ert
+                    Parameter: i, x = 7, a[4]
+                    Body:
+                        x = ert(i);
+                    EndBody.

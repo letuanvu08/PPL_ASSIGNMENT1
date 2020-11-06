@@ -1,0 +1,3 @@
+Var: a,b,v,a[1];	Function: a
+	Body:
+	a=1+2-3;	EndBody.

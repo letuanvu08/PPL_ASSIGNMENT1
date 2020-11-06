@@ -1,0 +1,4 @@
+Function: abc
+                Body:
+                fun(fun(5)) = (4 + 4 * 4)[4][3];
+                EndBody.

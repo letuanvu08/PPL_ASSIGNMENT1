@@ -1,0 +1,8 @@
+Var:x,y,z;
+            Function: abc
+            Parameter: a, x, z
+            Body:
+                Function: ert
+                Body:
+                EndBody.
+            EndBody.

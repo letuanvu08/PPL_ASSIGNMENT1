@@ -1,0 +1,8 @@
+Function: abc
+                Parameter: x, y, z[4][5]
+                Body:
+                    a = 4;
+                    While a = 5 Do
+                    a = 6;
+                    EndWhile.
+                EndBody.

@@ -1,0 +1,4 @@
+Function: abc
+                Body:
+                    x = hoo(foo() + goo(too()) - too(goo() + foo() + qoo()));
+                EndBody.

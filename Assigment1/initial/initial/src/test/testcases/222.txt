@@ -1,0 +1,5 @@
+Function: 123
+                    Parameter: x,y,z
+                    Body:
+                        x = ert(i);
+                    EndBody.

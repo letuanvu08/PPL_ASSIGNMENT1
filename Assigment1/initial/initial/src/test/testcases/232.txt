@@ -1,0 +1,7 @@
+Function: abc
+                Parameter: x, y, z
+                Body:
+                    Var: x = 4, y, z = 8;
+                    x = 1;
+                    y = 7;
+                EndBody.

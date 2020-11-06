@@ -1,0 +1,8 @@
+Function: abc
+                Parameter: x, y, z[4][5]
+                Body:
+                    If a Then a = 5;
+                    Else a = 6;
+                    ElseIf b == 5 Then c = 8;
+                    EndIf.
+                EndBody.
